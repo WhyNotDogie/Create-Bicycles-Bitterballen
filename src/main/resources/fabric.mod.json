@@ -22,7 +22,10 @@
 		],
 		"rei_client": [
 			"pyzpre.createbicyclesbitterballen.compat.rei.CreateBicyclesBitterballenREI"
-		]
+		],
+		"emi": [
+			"pyzpre.createbicyclesbitterballen.compat.emi.CreateBicyclesBitterballenEMI"
+		],
 	},
 	"mixins": [
 		"createbicyclesbitterballen.mixins.json"
